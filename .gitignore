@@ -2,3 +2,4 @@
 .tmdb_api_key
 tmdb_data/
 tools/__pycache__/
+.envrc
