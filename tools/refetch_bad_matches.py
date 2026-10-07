@@ -102,7 +102,7 @@ MANUAL_IDS = {
     'rshowgrl': 10802,      # Showgirls (1995)
     'rsister': 44925,       # Sister My Sister (1994)
     'rsummer': 3597,        # I Know What You Did Last Summer (1997)
-    'rswingers': 93685,     # Swingers (2002)
+    # 'rswingers' removed: 93685 is the 2002 Dutch film; the review is of Swingers (1996), IMDb tt0117802 (issue #27)
     'rturidi': 125325,      # You Laugh / Tu Ridi (1998)
     'rx2': 36658,           # X2 (2003)
 }
