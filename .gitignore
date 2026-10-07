@@ -3,3 +3,4 @@
 tmdb_data/
 tools/__pycache__/
 .envrc
+.claude/settings.local.json
