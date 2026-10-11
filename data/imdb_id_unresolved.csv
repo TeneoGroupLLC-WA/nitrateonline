@@ -1,0 +1,6 @@
+page,title,xml_imdb_id,problem,suggested_fix
+1996/rseven.html,Seven,tt0117591,"XML and page JSON-LD both point to 'The Seventh Cronicle' (1996, TMDB 507567); review is of David Fincher's Se7en (1995)","IMDb tt0114369 / TMDB 807; rerun poster + film card"
+2000/r8women.html,8½ Women,tt0283832,"XML points to François Ozon's 8 Women (2002); review is of Peter Greenaway's 8½ Women (1999)","TMDB 11332 (look up its IMDb ID); fix page and XML together"
+2002/rleaving.html,Before Leaving,tt4520134,"XML (Before The Leaves Fall, 2015) and page JSON-LD tt0087888 (Going and Coming Back, 1985) are both wrong; review is of Marie de Laubier's French documentary Avant de partir","No verified IMDb ID found; TMDB 684978 'Before Leaving' has no release date"
+2003/rproof.html,The Naked Proof,tt0228750,"XML/page point to Proof of Life (2000); review is of Jamie Hook's The Naked Proof","No TMDB match found; strip wrong metadata"
+2004/rfight.html,Fight Circle,tt0095492,"XML/page point to Last Man Standing (1987); review is of an unrelated small film","No TMDB match found; strip wrong metadata"
