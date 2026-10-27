@@ -1,0 +1,13 @@
+# Cloudflare Pages response headers.
+
+# Keep everything except the production domain (https://nitrateonline.com) out of search
+# indexes: the PPE (staging) hostname and every *.pages.dev alias that serves a
+# build. This file is the single mechanism for it (no Cloudflare dashboard rules).
+https://ppe.nitrateonline.com/*
+  X-Robots-Tag: noindex, nofollow
+
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex, nofollow
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex, nofollow
